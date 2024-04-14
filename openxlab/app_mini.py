@@ -249,7 +249,7 @@ def main():
     robot_avator = 'asserts/zly.png'
 
     st.title("👩 Juliet-Chat InternLM2")
-    st.caption("🚀 A streamlit chatbot powered by InternLM2 QLora")
+    st.caption("🚀 A streamlit chatbot powered by InternLM2")
 
     generation_config = prepare_generation_config()
 
